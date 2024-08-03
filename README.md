@@ -8,7 +8,7 @@ Deskripsi singkat tentang proyek Anda dan tujuan dari proyek ini.
 - [Fitur](#fitur)
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
-- [Struktur Proyek](#struktur-proyek)
+- [Struktur Folder](#struktur-folder-pembelajaran)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 - [Kontak](#kontak)
@@ -59,6 +59,6 @@ Tutorial-Cplusplus
 ## Kontak
 Informasi kontak jika ada pertanyaan lebih lanjut
 
-- Email     : [text](fbi.rizal3@gmail.com)
-- Linkedin  : [text](https://www.linkedin.com/in/muriza/)
-- intagram  : [text](https://www.instagram.com/muriza.dev/)
+- Email     : [fbi.rizal3@gmail.com](fbi.rizal3@gmail.com)
+- Linkedin  : [linkedin.com/in/muriza/](https://www.linkedin.com/in/muriza/)
+- intagram  : [intagram/@muriza.dev/](https://www.instagram.com/muriza.dev/)
