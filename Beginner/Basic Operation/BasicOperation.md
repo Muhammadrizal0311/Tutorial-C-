@@ -5,4 +5,4 @@ Basic operations in C++ refer to the fundamental arithmetic, relational, and log
 ## Arithmetic Operations
 ## Relational Operators
 ## Logical Operators
-## Loops/While Operatiors
+## Loops/While Operator
